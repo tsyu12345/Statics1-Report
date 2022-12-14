@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  14 DEC 2022 17:41
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  14 DEC 2022 22:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -567,8 +567,14 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 [1
 
 ] (./report-resubmit.aux)
-Package rerunfilecheck Info: File `report-resubmit.out' has not changed.
-(rerunfilecheck)             Checksum: C200ACAB0AB4DAD1DB793311C6B2BBBF;204.
+
+Package rerunfilecheck Warning: File `report-resubmit.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report-resubmit.out':
+(rerunfilecheck)             Before: F8EC1095E6F62CDDA2C957E9D5377CA3;207
+(rerunfilecheck)             After:  C200ACAB0AB4DAD1DB793311C6B2BBBF;204.
  ) 
 Here is how much of TeX's memory you used:
  10632 strings out of 476918

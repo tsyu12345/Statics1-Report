@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  14 DEC 2022 17:41
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  14 DEC 2022 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,8 +11,8 @@ End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 2 strings out of 476918
- 25 string characters out of 5825681
+ 0 strings out of 476918
+ 1 string characters out of 5825681
  343771 words of memory out of 5000000
  21707 multiletter control sequences out of 15000+600000
  473130 words of font info for 45 fonts, out of 8000000 for 9000
