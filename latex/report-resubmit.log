@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  14 DEC 2022 00:55
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  14 DEC 2022 17:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -544,50 +544,39 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 33.
+(Font)              scaled to size 9.60999pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 33.
+(Font)              scaled to size 9.60999pt on input line 34.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 33.
+(Font)              scaled to size 13.83836pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 33.
+(Font)              scaled to size 13.83836pt on input line 34.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 33.
+(Font)              scaled to size 13.83836pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 33.
- (./report-resubmit.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 4.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 4.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 4.
-)
+(Font)              scaled to size 13.83836pt on input line 34.
+ (./report-resubmit.toc)
 \tf@toc=\write4
 \openout4 = `report-resubmit.toc'.
 
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 39.
+(Font)              scaled to size 11.53198pt on input line 40.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 39.
+(Font)              scaled to size 11.53198pt on input line 40.
 
 [1
 
-] [2] (./report-resubmit.aux)
+] (./report-resubmit.aux)
 Package rerunfilecheck Info: File `report-resubmit.out' has not changed.
-(rerunfilecheck)             Checksum: 8DAAD459DB9FB3F8BDEAD019A001236D;396.
+(rerunfilecheck)             Checksum: C200ACAB0AB4DAD1DB793311C6B2BBBF;204.
  ) 
 Here is how much of TeX's memory you used:
- 10666 strings out of 476918
- 166985 string characters out of 5825681
- 511010 words of memory out of 5000000
- 32078 multiletter control sequences out of 15000+600000
- 528416 words of font info for 117 fonts, out of 8000000 for 9000
+ 10632 strings out of 476918
+ 166632 string characters out of 5825681
+ 510816 words of memory out of 5000000
+ 32056 multiletter control sequences out of 15000+600000
+ 515883 words of font info for 97 fonts, out of 8000000 for 9000
  19 hyphenation exceptions out of 8191
  72i,6n,77p,267b,332s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report-resubmit.dvi (2 pages, 6356 bytes).
+Output written on report-resubmit.dvi (1 page, 4348 bytes).
