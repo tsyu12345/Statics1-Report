@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  14 DEC 2022 22:22
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.14)  15 DEC 2022 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,34 +555,73 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 34.
- (./report-resubmit.toc)
+ (./report-resubmit.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 2.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 2.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 2.
+)
 \tf@toc=\write4
 \openout4 = `report-resubmit.toc'.
 
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 40.
+(Font)              scaled to size 11.53198pt on input line 39.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 40.
+(Font)              scaled to size 11.53198pt on input line 39.
 
 [1
 
-] (./report-resubmit.aux)
+]
+File: ./images/allgender/hist.png Graphic file (type bmp)
+<./images/allgender/hist.png>
+File: ./images/male/hist.png Graphic file (type bmp)
+<./images/male/hist.png>
+ [2]
+File: ./images/female/hist.png Graphic file (type bmp)
+<./images/female/hist.png>
+ [3] [4]
+File: images/allgender/age_tarnsition.png Graphic file (type bmp)
+<images/allgender/age_tarnsition.png>
 
-Package rerunfilecheck Warning: File `report-resubmit.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Overfull \hbox (6.8722pt too wide) in paragraph at lines 102--103
+ [][] 
+ []
 
-Package rerunfilecheck Info: Checksums for `report-resubmit.out':
-(rerunfilecheck)             Before: F8EC1095E6F62CDDA2C957E9D5377CA3;207
-(rerunfilecheck)             After:  C200ACAB0AB4DAD1DB793311C6B2BBBF;204.
+[5] [6]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+18.
+ (c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+\T1/lmtt/m/n/10 E3 % 81 % AB % E3 % 82 % 88 % E3 % 82 % 8A % E3 % 82 % A8 % E3 
+% 82 % B9 % E3 % 83 % 88 % E3 % 83 % AD % E3 % 82 % B2 % E3 % 83 % B3 % E3 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+\T1/lmtt/m/n/10 81 % AB % E5 % A4 % 89 % E6 % 8F % 9B ,[] %E5 % BC % 95 % E3 % 
+81 % 8D % E8 % B5 % B7 % E3 % 81 % 93 % E3 % 81 % 99 % E5 % 8E % 9F % E5 % 9B %
+
+ []
+
+[7] [8] (./report-resubmit.aux)
+Package rerunfilecheck Info: File `report-resubmit.out' has not changed.
+(rerunfilecheck)             Checksum: 78780B8FF8ED83A27F7BDEA60A6BBF5C;383.
  ) 
 Here is how much of TeX's memory you used:
- 10632 strings out of 476918
- 166632 string characters out of 5825681
- 510816 words of memory out of 5000000
- 32056 multiletter control sequences out of 15000+600000
- 515883 words of font info for 97 fonts, out of 8000000 for 9000
+ 10741 strings out of 476918
+ 168517 string characters out of 5825681
+ 515960 words of memory out of 5000000
+ 32137 multiletter control sequences out of 15000+600000
+ 528735 words of font info for 118 fonts, out of 8000000 for 9000
  19 hyphenation exceptions out of 8191
- 72i,6n,77p,267b,332s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,10n,77p,377b,386s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report-resubmit.dvi (1 page, 4348 bytes).
+Output written on report-resubmit.dvi (8 pages, 18996 bytes).
